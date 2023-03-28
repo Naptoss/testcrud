@@ -14,3 +14,5 @@ if soma_x == 8:
     print("A soma do numero e igual a 8")
 else:
     print("A soma e de outro valor")
+
+print("Hello World")
